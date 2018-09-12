@@ -138,9 +138,9 @@ background:transparent;
 
 #nav li {
 list-style-type: none;
-background:#7F9BC5;
+background:#CC9999;
 
-border:1px solid #7DB26E;
+border:1px solid black;
 text-align:left;
 padding:0 0 0 0;
 margin-bottom:6px;
@@ -215,7 +215,7 @@ text-decoration:none;
 }
 
 #footer a {
-color:#B7D7AF;
+color:#B7D7AFred;
 text-decoration:underline;
 }
 
@@ -260,10 +260,13 @@ span.squares span {display:none;}
 
 blockquote {
 padding:10px 10px 15px 10px;
-background:#E5ECF7;
-border-left:2px solid #C7D9F5;
+background:#FFCCCC;
+border-left:2px solid #CC9999;
+border-right:2px solid #CC9999;
+border-top:2px solid #CC9999;
+border-bottom:2px solid #CC9999;
 font-style:italic;
-color:#6B84A8;
+color:#CC9999;
 letter-spacing:.1em;
 }
 
